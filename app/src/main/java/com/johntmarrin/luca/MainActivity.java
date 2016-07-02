@@ -1,5 +1,7 @@
 package com.johntmarrin.luca;
 
+// Committed to github finally
+
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
