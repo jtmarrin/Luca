@@ -1,7 +1,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
       xmlns:flickr="http://schemas.android.com/apk/res-auto"
       xmlns:tools="http://schemas.android.com/tools"
-      tools:context="com.johntmarrin.luca.MainActivity">
+      tools:context="com.mrk.luca.MainActivity">
     <!--<item-->
         <!--android:id="@+id/action_settings"-->
         <!--android:orderInCategory="100"-->
